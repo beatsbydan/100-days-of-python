@@ -1,4 +1,4 @@
-# Introduction
+# About
 
 I took on a course to learn Python within 100 days starting from !st September, 2023.
 
